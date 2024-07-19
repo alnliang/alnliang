@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an undergraduate Computer Science student at University of California, Riverside. I intend to pursue a Master's, and eventually a Ph.D in Computer Science. My current interests lie in the realm of Machine Learning.
+Currently looking to collaborate on Machine Learning projects centered around Threat Mitigation, Applications in Archaeology, and anything LLM or Computer Vision related.
+Contact me here:
+Email: alqliang@gmail.com
+LinkedIn: https://www.linkedin.com/in/alan-liang-71080121b/

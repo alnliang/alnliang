@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an undergraduate Computer Science student at University of California, Riverside. I intend to pursue a Master's, and eventually a Ph.D in Computer Science. My current interests lie in the realm of Machine Learning, specifically applications of Computer Vision in archaeology and LLMs in analyzing historical text.\
+I am a graduate student at USC currently pursuing an M.S. in Computer Science. My current interests lie in the realm of Machine Learning, specifically applications of Computer Vision in archaeology and LLMs in analyzing historical text.\
 Currently looking to collaborate on Machine Learning projects centered around Adversarial Attacks, Applications in Archaeology, and anything LLM or Computer Vision related.\
 Contact me here:\
 Email: alqliang@gmail.com\

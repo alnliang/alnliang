@@ -18,5 +18,5 @@ I am a graduate student at USC currently pursuing an M.S. in Computer Science. M
 Currently looking to collaborate on Machine Learning projects centered around Adversarial Attacks, Applications in Archaeology, and anything LLM or Computer Vision related.\
 Contact me here:\
 Email: aqliang@usc.edu\
-LinkedIn: https://www.linkedin.com/in/alan-liang-71080121b/\
+LinkedIn: https://www.linkedin.com/in/alan-liang-71080121b/ \
 Website: https://alnliang.github.io/portfolio/

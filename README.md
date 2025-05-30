@@ -19,4 +19,5 @@ Currently looking to collaborate on Machine Learning projects centered around Ad
 Contact me here:\
 Email: aqliang@usc.edu\
 LinkedIn: https://www.linkedin.com/in/alan-liang-71080121b/ \
-Website: https://alnliang.github.io/portfolio/
+Website: https://alnliang.github.io/portfolio/ \
+Find my NPM packages here: https://www.npmjs.com/~alnliang

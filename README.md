@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a graduate student at USC currently pursuing an M.S. in Computer Science. My current interests lie in the realm of Machine Learning, specifically applications of Computer Vision in archaeology and LLMs in analyzing historical text. More recent interests include ML applications in Healthcare, Drug Discovery, and more novel ways to represent protein structures as data.\
-Currently looking to collaborate on Machine Learning projects centered around Adversarial Attacks, Applications in Healthcare, and anything LLM or Computer Vision related.\
+I am a graduate student at USC currently pursuing an M.S. in Computer Science. My current interests lie in the realm of Machine Learning, such applications of Computer Vision in archaeology and LLMs in analyzing historical text. More recent interests that have become a far greater priority include ML applications in Healthcare, Drug Discovery, and more novel ways to represent protein structures as data.\
+Currently looking to collaborate on Machine Learning projects centered around Adversarial Attacks, Applications in Healthcare and/or Archaeology, and anything LLM or Computer Vision related.\
 Currently searching for a cancer vaccine through ML/AI.\
 Contact me here:\
 Email: aqliang@usc.edu\

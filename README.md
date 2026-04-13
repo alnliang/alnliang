@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a graduate student at USC currently pursuing an M.S. in Computer Science. My current interests lie in the realm of Machine Learning, specifically applications of Computer Vision in archaeology and LLMs in analyzing historical text.\
 Currently looking to collaborate on Machine Learning projects centered around Adversarial Attacks, Applications in Healthcare, and anything LLM or Computer Vision related.\
-Currently searching for a Cancer Vaccine through ML/AI.
+Currently searching for a Cancer Vaccine through ML/AI.\
 Contact me here:\
 Email: aqliang@usc.edu\
 LinkedIn: https://www.linkedin.com/in/alan-liang-71080121b/ \

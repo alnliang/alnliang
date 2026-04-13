@@ -21,4 +21,5 @@ Contact me here:\
 Email: aqliang@usc.edu\
 LinkedIn: https://www.linkedin.com/in/alan-liang-71080121b/ \
 Website: https://www.alnliang.dev \
+ORCID: https://orcid.org/0009-0002-9620-8131 \
 Find my NPM packages here: https://www.npmjs.com/~alnliang
